@@ -23,8 +23,8 @@ img {
 a {
 	display: inline-block;
 	padding: 10px 20px; /* Increase padding for larger touch targets */
-	margin: 5px; /* Add margin for spacing between touch targets */
-	text-decoration: none; /* Optional: Remove underline for better readability */
+	margin: 5px; /* Add margin for sufficient spacing */
+	text-decoration: none; /* Optional: remove underline for better readability */
 }
 a:hover {
 	color:#666666;
