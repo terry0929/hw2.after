@@ -53,6 +53,10 @@ a:hover {
 	min-height:400px;
 	background-color:#ececec;
 	}
+#sidebar li, #footer-nav a {
+	margin-bottom: 10px; /* 增加間距 */
+}
+
 #body {
 	width:485px;
 	min-height:400px;
